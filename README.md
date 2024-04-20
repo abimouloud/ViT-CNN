@@ -1,2 +1,2 @@
 # ViT-CNN
-the code will be soon publicly available,
+the codes will be soon publicly available,
