@@ -1,0 +1,4 @@
+ADD THIS:
+!pip install --upgrade pip
+!pip install --upgrade tensorflow
+!pip install --upgrade mediapipe-model-maker
